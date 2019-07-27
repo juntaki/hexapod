@@ -1,5 +1,7 @@
 # Hexapod software
 
+![hexapod](https://user-images.githubusercontent.com/5100568/61990333-7c08e580-b079-11e9-8a1c-07c452f9274c.jpg)
+
 Run it on Raspberry Pi Zero W for [Hexapod](https://www.thingiverse.com/thing:3769750), and control the robot from your laptop
 
 # Build and Setup
